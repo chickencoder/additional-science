@@ -4,4 +4,4 @@
 This repo contains notes for Additional Science (Edexcel) originally taken by Jesse Sibley. If you wish to contribute, please read below.
 
 ## Contributing
-If you wish to contribute, add some important notes I've missed or would just like to re-word something, post an issue or tweet me [@JesseTheSibley](http://twitter.com) :grin:
+If you would like to add some important notes I've missed or would just like to re-word something, post an issue or tweet me [@JesseTheSibley](http://twitter.com)
