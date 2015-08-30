@@ -1,4 +1,7 @@
-# Additional Science Notes
-## Edexcel
+# Edexcel Notes
+# Addiction Science :wrench: :bar_chart: :syringe: :telescope: :microscope: :electric_plug:
 
-Here are my notes on additional science which I have used as a revision guide for my up coming mocks.
+This repo contains notes for Additional Science (Edexcel) originally taken by Jesse Sibley. If you wish to contribute, please read below.
+
+# Contributing
+If you wish to contribute, add some important notes I've missed or would just like to re-word something, post an issue or tweet me [@JesseTheSibley](http://twitter.com) :grin:
